@@ -10,7 +10,7 @@ Copy the HTTPS URL (ends in .git)
 
 ## 3 — Open VSCode
 File → Open Folder → pick your project folder
-Open Terminal in VSCode
+View → Terminal in VSCode
 
 ## 4 — Connect Folder to Repo
 In terminal (first time only):
@@ -29,8 +29,8 @@ Edit files
 VSCode → Source Control (branch icon)
 Stage (+) → Commit (message) → Push (↑)
 
-## 7 — Pull Updates
+## 7 — Pull Updates (for collaborating)
 
-If repo has new changes:
+If repo has new changes, in VSCode terminal, enter: 
 git pull
 
