@@ -24,15 +24,16 @@
 * git push -u origin main
 
 ## 6 — Ongoing Workflow
-Edit files in VSCode
+Edit files in VSCode AND SAVE CHANGES
 VSCode → Source Control (branching icon)
 * Stage (click the + sign be all files you want to stage) 
 * Type a message about the commit 
 * Click `Commit` 
 * Click `Sync Changes (↑)`
 
-## 7 — Pull Updates (for collaborating)
+## 7 — Check your Repro
 
+## BONUS — Pull Updates (for collaborating)
 If repo has new changes, in VSCode terminal, enter: 
 * git pull
 
