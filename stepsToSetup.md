@@ -28,10 +28,11 @@ Edit files in VSCode
 VSCode → Source Control (branching icon)
 * Stage (click the + sign be all files you want to stage) 
 * Type a message about the commit 
-* Click `Commit` → Push (↑)
+* Click `Commit` 
+* Click `Sync Changes (↑)`
 
 ## 7 — Pull Updates (for collaborating)
 
 If repo has new changes, in VSCode terminal, enter: 
-git pull
+* git pull
 
