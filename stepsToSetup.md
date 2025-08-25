@@ -1,4 +1,4 @@
-## 1 — Tools You'll Need
+## 1 — Needed Tools
 * Git (git-scm.com) //// if this is not installed on lab computers we may have to start out a different way
 * VSCode (code.visualstudio.com)
 * A GitHub account
